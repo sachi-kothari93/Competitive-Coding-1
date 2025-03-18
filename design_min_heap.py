@@ -5,7 +5,7 @@
 #     - Heapify: O(log n) - may need to traverse down the height of the tree
 #     - Build Heap: O(n) - when building from an array
     
-#     Space Complexity:
+# Space Complexity:
 #     - Overall: O(n) - where n is the number of elements in the heap
 
 # Didn't have this in mock interview
